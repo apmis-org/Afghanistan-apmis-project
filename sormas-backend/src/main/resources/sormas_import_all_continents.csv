@@ -1,8 +1,8 @@
-## All continents
-"defaultName","externalId","archived"
-"Africa","31000005","FALSE"
-"America","31000006","FALSE"
-"Asia","31000004","FALSE"
-"Australia (Continent)","31000007","FALSE"
-"Europe","31000003","FALSE"
-"Foreign Countries (Unknown)","31099999","FALSE"
+## All continents DO NOT MODIFY UUID!
+"defaultName","externalId","archived","uuid"
+"Africa","31000005","FALSE","f42beef5-aad6-4527-bb9c-daeae363fd02"
+"America","31000006","FALSE","5abc3843-3725-4a9b-b38a-6d7f2a476ee0"
+"Asia","31000004","FALSE","007ad4ea-9971-4b7f-be0e-711e0e59b512"
+"Australia (Continent)","31000007","FALSE","7fe9c5dd-1b5f-4ac8-a865-7fd969fa08f6"
+"Europe","31000003","FALSE","098716b6-c138-48b1-97ae-236732be9cab"
+"Foreign Countries (Unknown)","31099999","FALSE","46bed341-4751-4f31-9522-4bfa4f055c5c"
